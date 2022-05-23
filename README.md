@@ -2,17 +2,17 @@
 [NuraFin](https://nurafin.com/) is a startup started in 2020 as a subsidiary of [NAICo](https://nurafarin.com/).
 
 ### Table of Contents
-- [NuraFin Cryptocurrency Trading Platform](https://github.com/nurafintech/.github/edit/master/README.md#nurafin-cryptocurrency-trading-platform)
-  - [Signal Alert](https://github.com/nurafintech/.github/edit/master/README.md#signal-alert)
-  - [Copy Trading](https://github.com/nurafintech/.github/edit/master/README.md#copy-trading)
-  - [Backtesting](https://github.com/nurafintech/.github/edit/master/README.md#backtesting)
-  - [Signal Tracker](https://github.com/nurafintech/.github/edit/master/README.md#signal-tracker)
-  - [Analytical Decision Sheets](https://github.com/nurafintech/.github/edit/master/README.md#analytical-decision-sheets)
-  - [Trade Management](https://github.com/nurafintech/.github/edit/master/README.md#trade-management)
-  - [Crypto Data Downloader](https://github.com/nurafintech/.github/edit/master/README.md#crypto-data-downloader)
-  - [Trading Teams](https://github.com/nurafintech/.github/edit/master/README.md#trading-teams)
-- [Telegram Scraper Platform](https://github.com/nurafintech/.github/edit/master/README.md#telegram-scraper-platform)
-- [Blockchain Projects](https://github.com/nurafintech/.github/edit/master/README.md#blockchain-projects)
+- [NuraFin Cryptocurrency Trading Platform](#nurafin-cryptocurrency-trading-platform)
+  - [Signal Alert](#signal-alert)
+  - [Copy Trading](#copy-trading)
+  - [Backtesting](#backtesting)
+  - [Signal Tracker](#signal-tracker)
+  - [Analytical Decision Sheets](#analytical-decision-sheets)
+  - [Trade Management](#trade-management)
+  - [Crypto Data Downloader](#crypto-data-downloader)
+  - [Trading Teams](#trading-teams)
+- [Telegram Scraper Platform](#telegram-scraper-platform)
+- [Blockchain Projects](#blockchain-projects)
 
 
 ## NuraFin Cryptocurrency Trading Platform
